@@ -1,45 +1,46 @@
 Hi there, I'm Yunjai Lee 👋
 
-<a href="https://github.com/leeyunjai82">
-<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DFira%2BCode%26weight%3D600%26size%3D22%26pause%3D1000%26color%3D00599C%26center%3Dfalse%26vCenter%3Dtrue%26width%3D600%26lines%3DEmbedded%2BSoftware%2BEngineer%3BComputer%2BVision%2BExpert%3BHW%252FSW%2BProduction%2BManager" alt="Typing SVG" />
-</a>
-
 ⚡ Professional Summary
 
 하드웨어 제어부터 딥러닝 인퍼런스까지, 임베디드 환경에서의 AI 통합에 특화된 엔지니어입니다.
 현재 **Circulus inc.**에서 하드웨어 및 소프트웨어 프로덕션 매니징을 담당하며, 로봇 및 임베디드 기기를 위한 다양한 라이브러리와 솔루션을 개발하고 있습니다.
 
-🔭 Expertise: Embedded Linux, Computer Vision (dlib, OpenCV), AI Model Optimization (TFLite, Keras)
+I am an engineer specialized in integrating AI within embedded environments, from hardware control to deep learning inference. Currently working as an HW/SW Production Manager at Circulus inc., I develop various libraries and solutions for robots and embedded devices.
 
-🌱 Core Techs: Python, C/C++, Node.js 기반의 임베디드 미들웨어 개발
+🔭 Expertise: 임베디드 리눅스, 컴퓨터 비전 (dlib, OpenCV), AI 모델 최적화 (TFLite, Keras) 
 
-💬 Interests: 가벼운 딥러닝 모델의 온디바이스 배포, 센서 데이터 시각화, 오픈소스 기여
+
+
+
+(Embedded Linux, Computer Vision, AI Model Optimization)
+
+🌱 Core Techs: Python, C/C++, Node.js 기반 임베디드 미들웨어 개발 
+
+
+
+
+(Embedded middleware development using Python, C/C++, and Node.js)
+
+💬 Interests: 가벼운 딥러닝 모델의 온디바이스 배포, 센서 데이터 시각화, 오픈소스 기여 
+
+
+
+
+(On-device deployment of lightweight DL models, sensor data visualization, open-source contribution)
 
 🛠 Tech Stack
 
-Languages <p>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/C%2B%2B-00599C%3Fstyle%3Dfor-the-badge%26logo%3Dc%252B%252B%26logoColor%3Dwhite"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/C-00599C%3Fstyle%3Dfor-the-badge%26logo%3Dc%26logoColor%3Dwhite"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Node.js-339933%3Fstyle%3Dfor-the-badge%26logo%3Dnode.js%26logoColor%3Dwhite"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Shell_Script-121011%3Fstyle%3Dfor-the-badge%26logo%3Dgnu-bash%26logoColor%3Dwhite"/>
+Languages
 
-</p>
 
-AI & Computer Vision <p>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/OpenCV-5C3EE8%3Fstyle%3Dfor-the-badge%26logo%3Dopencv%26logoColor%3Dwhite"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/TensorFlow_Lite-FF6F00%3Fstyle%3Dfor-the-badge%26logo%3Dtensorflow%26logoColor%3Dwhite"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Keras-D00000%3Fstyle%3Dfor-the-badge%26logo%3DKeras%26logoColor%3Dwhite"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Mediapipe-00A67E%3Fstyle%3Dfor-the-badge%26logo%3Dgoogle%26logoColor%3Dwhite"/>
 
-</p>
+AI & Computer Vision
 
-Hardware & Embedded <p>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Raspberry%2520Pi-C51A4A%3Fstyle%3Dfor-the-badge%26logo%3Draspberry-pi%26logoColor%3Dwhite"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Embedded_Linux-FCC624%3Fstyle%3Dfor-the-badge%26logo%3Dlinux%26logoColor%3Dblack"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Arduino-00979D%3Fstyle%3Dfor-the-badge%26logo%3Darduino%26logoColor%3Dwhite"/>
 
-</p>
+
+Hardware & Embedded
+
+
 
 🚀 Highlighted Projects
 
@@ -51,40 +52,41 @@ Description
 
 dlib과 OpenCV를 활용한 얼굴 인식 및 랜드마크 검출 라이브러리. 임베디드 최적화 지원.
 
+
+
+Face recognition & landmark detection library using dlib and OpenCV. Optimized for embedded systems.
+
 📺 OLED-disp (npm library)
 
 Raspberry Pi용 SSD1306-SPI OLED 드라이버. 한/영 폰트 및 비트맵 렌더링 최적화.
+
+
+
+SSD1306-SPI OLED driver for Raspberry Pi. Supports KR/EN font & bitmap rendering.
 
 🌐 Googletrans-Python
 
 Google Translate API를 활용한 파이썬 번역 자동화 도구.
 
+
+
+Python translation automation tool utilizing Google Translate API.
+
 🤖 Teachable Machine Python
 
 Google Teachable Machine 모델(Keras/TFLite)을 임베디드 기기에서 실행하는 클라이언트 코드.
 
+
+
+Client code to run Google Teachable Machine models (Keras/TFLite) on embedded devices.
+
 📊 GitHub Statistics
-
-<div align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dleeyunjai82%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0D1117" height="165" alt="GitHub Stats" />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dleeyunjai82%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0D1117" height="165" alt="Top Langs" />
-</div>
-
-
-
-
-
-<div align="center">
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dleeyunjai82%26theme%3Dtokyonight%26hide_border%3Dtrue%26background%3D0D1117" alt="GitHub Streak" />
-</div>
 
 📫 Connect with me
 
-<p align="center">
-<a href="https://blog.naver.com/leeyunjai">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Naver_Blog-03C75A%3Fstyle%3Dfor-the-badge%26logo%3Dnaver%26logoColor%3Dwhite" alt="Naver Blog"/>
-</a>
-<a href="https://www.google.com/search?q=https://pibo.circul.us">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Circulus-000000%3Fstyle%3Dfor-the-badge%26logo%3Dweb%26logoColor%3Dwhite" alt="Circulus"/>
-</a>
-</p>
+"하드웨어와 지능의 만남: 코드와 물리적 세계의 간극을 연결합니다."
+
+
+
+
+"Hardware meets Intelligence: Bridging the gap between code and the physical world."
