@@ -42,45 +42,32 @@ Hardware & Embedded
 
 
 
-🚀 Highlighted Projects
+🚀 Highlighted Projects & Repository Stats
 
-Project
+(👇 카드를 클릭하면 해당 레포지토리로 바로 이동합니다 / Click cards to visit repositories)
 
-Description
+📝 Project Details
 
-👤 Simple Face Recognition
+Simple Face Recognition: dlib과 OpenCV를 활용한 얼굴 인식 및 랜드마크 검출 라이브러리. 임베디드 최적화 지원. (Face recognition & landmark detection library. Optimized for embedded systems.)
 
-dlib과 OpenCV를 활용한 얼굴 인식 및 랜드마크 검출 라이브러리. 임베디드 최적화 지원.
+OLED-disp (npm library): Raspberry Pi용 SSD1306-SPI OLED 드라이버. 한/영 폰트 및 비트맵 렌더링 최적화. (SSD1306-SPI OLED driver for Raspberry Pi.)
 
+Googletrans-Python: Google Translate API를 활용한 파이썬 번역 자동화 도구. (Python translation tool utilizing Google Translate API.)
 
+Teachable Machine Python: Google Teachable Machine 모델(Keras/TFLite)을 임베디드 기기에서 실행하는 클라이언트 코드. (Client code to run Teachable Machine models on edge devices.)
 
-Face recognition & landmark detection library using dlib and OpenCV. Optimized for embedded systems.
+🤗 AI & Machine Learning Contributions
 
-📺 OLED-disp (npm library)
+Hugging Face Profile (@leeyunjai)
 
-Raspberry Pi용 SSD1306-SPI OLED 드라이버. 한/영 폰트 및 비트맵 렌더링 최적화.
-
-
-
-SSD1306-SPI OLED driver for Raspberry Pi. Supports KR/EN font & bitmap rendering.
-
-🌐 Googletrans-Python
-
-Google Translate API를 활용한 파이썬 번역 자동화 도구.
+최신 딥러닝 모델 테스트, 커스텀 모델 파인튜닝, AI 애플리케이션(Spaces) 및 데이터셋을 연구하고 커뮤니티에 공유합니다. 
 
 
 
-Python translation automation tool utilizing Google Translate API.
 
-🤖 Teachable Machine Python
+(Actively researching, fine-tuning, and sharing deep learning models, datasets, and AI applications on Hugging Face Spaces.)
 
-Google Teachable Machine 모델(Keras/TFLite)을 임베디드 기기에서 실행하는 클라이언트 코드.
-
-
-
-Client code to run Google Teachable Machine models (Keras/TFLite) on embedded devices.
-
-📊 GitHub Statistics
+📊 Overall GitHub Statistics
 
 📫 Connect with me
 
