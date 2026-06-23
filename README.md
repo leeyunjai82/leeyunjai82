@@ -1,98 +1,90 @@
-# Hi there, I'm Yunjai Lee 👋
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00599C&center=false&vCenter=true&width=600&lines=Embedded+Software+Engineer;Computer+Vision+Expert;HW%2FSW+Production+Manager;Hugging+Face+Contributor)](https://github.com/leeyunjai82)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00599C,100:00C9A7&height=180&section=header&text=Embedded%20AI%20%C2%B7%20Computer%20Vision%20%C2%B7%20Robotics&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=42" width="100%"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=00C9A7&center=true&vCenter=true&width=520&lines=Embedded+Software+Engineer;Computer+Vision+%26+On-device+AI;HW%2FSW+Production+Manager+%40+Circulus;Hugging+Face+Contributor)](https://huggingface.co/leeyunjai)
+
+</div>
+
+```text
+🔭  임베디드 리눅스 · 온디바이스 추론 · 경량 모델 최적화 (TFLite, Keras)
+👁  컴퓨터 비전  · OpenCV · dlib · YOLO11
+🛠  Python · C/C++ · Node.js 미들웨어
+```
 
 <br>
 
-### ⚡ Professional Summary
+<div align="center">
 
-하드웨어 제어부터 딥러닝 인퍼런스까지, **임베디드 환경에서의 AI 통합**에 특화된 엔지니어입니다.
-현재 **Circulus inc.**에서 하드웨어 및 소프트웨어 프로덕션 매니징을 담당하며, 로봇 및 임베디드 기기를 위한 다양한 라이브러리와 솔루션을 개발하고 있습니다.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![TensorFlow Lite](https://img.shields.io/badge/TFLite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![Linux](https://img.shields.io/badge/Embedded_Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
-I am an engineer specialized in **integrating AI within embedded environments**, from hardware control to deep learning inference. Currently working as an HW/SW Production Manager at **Circulus inc.**, I develop various libraries and solutions for robots and embedded devices.
-
-* 🔭 **Expertise**: 임베디드 리눅스, 컴퓨터 비전 (dlib, OpenCV), AI 모델 최적화 (TFLite, Keras) <br> *(Embedded Linux, Computer Vision, AI Model Optimization)*
-* 🌱 **Core Techs**: Python, C/C++, Node.js 기반 임베디드 미들웨어 개발 <br> *(Embedded middleware development using Python, C/C++, and Node.js)*
-* 💬 **Interests**: 가벼운 딥러닝 모델의 온디바이스 배포, 센서 데이터 시각화, 오픈소스 기여 <br> *(On-device deployment of lightweight DL models, sensor data visualization, open-source contribution)*
-
----
-
-### 🛠 Tech Stack
-
-**Languages**<br>
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white)
-
-**AI & Computer Vision**<br>
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![TensorFlow Lite](https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white)
-![Mediapipe](https://img.shields.io/badge/Mediapipe-00A67E?style=flat-square&logo=google&logoColor=white)
-
-**Hardware & Embedded**<br>
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)
-![Embedded Linux](https://img.shields.io/badge/Embedded_Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+</div>
 
 ---
 
-### 🤗 AI & Machine Learning Contributions
+## 🤗 Hugging Face — YOLO11 비전 모델
 
-[![Hugging Face Profile](https://img.shields.io/badge/Hugging_Face-Profile_@leeyunjai-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/leeyunjai)
+<div align="center">
 
-최신 **YOLOv11 기반 비전 모델(객체 인식, 세그멘테이션, 얼굴 감정 인식 등)**을 파인튜닝하고 커뮤니티에 활발히 공유하고 있습니다. 아래 뱃지에서 실시간 다운로드 및 좋아요 통계를 확인할 수 있습니다.
+[![HF](https://img.shields.io/badge/Hugging_Face-@leeyunjai-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/leeyunjai)
 
-**🔥 Top Models on Hugging Face:**
+</div>
 
-* [**yolo11-falldetect**](https://huggingface.co/leeyunjai/yolo11-falldetect) : YOLO11x 기반 낙상 감지 모델 <br>
-  ![Downloads](https://img.shields.io/badge/dynamic/json?color=27B5EA&label=downloads&query=%24.downloads&url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fmodels%2Fleeyunjai%2Fyolo11-falldetect&style=flat-square) ![Likes](https://img.shields.io/badge/dynamic/json?color=FFD21E&label=likes&query=%24.likes&url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fmodels%2Fleeyunjai%2Fyolo11-falldetect&style=flat-square)
-* [**yolo11-face-emotion-fer2013-cls**](https://huggingface.co/leeyunjai/yolo11-face-emotion-fer2013-cls) : FER2013 기반 얼굴 감정 분류 모델 <br>
-  ![Downloads](https://img.shields.io/badge/dynamic/json?color=27B5EA&label=downloads&query=%24.downloads&url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fmodels%2Fleeyunjai%2Fyolo11-face-emotion-fer2013-cls&style=flat-square) ![Likes](https://img.shields.io/badge/dynamic/json?color=FFD21E&label=likes&query=%24.likes&url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fmodels%2Fleeyunjai%2Fyolo11-face-emotion-fer2013-cls&style=flat-square)
-* [**yolo11-road-seg**](https://huggingface.co/leeyunjai/yolo11-road-seg) : 자율주행 및 도로 환경 분석용 세그멘테이션 <br>
-  ![Downloads](https://img.shields.io/badge/dynamic/json?color=27B5EA&label=downloads&query=%24.downloads&url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fmodels%2Fleeyunjai%2Fyolo11-road-seg&style=flat-square) ![Likes](https://img.shields.io/badge/dynamic/json?color=FFD21E&label=likes&query=%24.likes&url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fmodels%2Fleeyunjai%2Fyolo11-road-seg&style=flat-square)
-* [**yolo11-ppe**](https://huggingface.co/leeyunjai/yolo11-ppe) : 산업 현장 안전 장비(안전모 등) 감지 모델 <br>
-  ![Downloads](https://img.shields.io/badge/dynamic/json?color=27B5EA&label=downloads&query=%24.downloads&url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fmodels%2Fleeyunjai%2Fyolo11-ppe&style=flat-square) ![Likes](https://img.shields.io/badge/dynamic/json?color=FFD21E&label=likes&query=%24.likes&url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fmodels%2Fleeyunjai%2Fyolo11-ppe&style=flat-square)
+| 모델 | 용도 | |
+|------|------|---|
+| [**yolo11-falldetect**](https://huggingface.co/leeyunjai/yolo11-falldetect) | 낙상 감지 | ![dl](https://img.shields.io/badge/dynamic/json?color=27B5EA&label=⬇&query=%24.downloads&url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fmodels%2Fleeyunjai%2Fyolo11-falldetect&style=flat-square) ![like](https://img.shields.io/badge/dynamic/json?color=FFD21E&label=♥&query=%24.likes&url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fmodels%2Fleeyunjai%2Fyolo11-falldetect&style=flat-square) |
+| [**yolo11-face-emotion-fer2013-cls**](https://huggingface.co/leeyunjai/yolo11-face-emotion-fer2013-cls) | 얼굴 감정 분류 (FER2013) | ![dl](https://img.shields.io/badge/dynamic/json?color=27B5EA&label=⬇&query=%24.downloads&url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fmodels%2Fleeyunjai%2Fyolo11-face-emotion-fer2013-cls&style=flat-square) ![like](https://img.shields.io/badge/dynamic/json?color=FFD21E&label=♥&query=%24.likes&url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fmodels%2Fleeyunjai%2Fyolo11-face-emotion-fer2013-cls&style=flat-square) |
+| [**yolo11-road-seg**](https://huggingface.co/leeyunjai/yolo11-road-seg) | 도로 환경 세그멘테이션 | ![dl](https://img.shields.io/badge/dynamic/json?color=27B5EA&label=⬇&query=%24.downloads&url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fmodels%2Fleeyunjai%2Fyolo11-road-seg&style=flat-square) ![like](https://img.shields.io/badge/dynamic/json?color=FFD21E&label=♥&query=%24.likes&url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fmodels%2Fleeyunjai%2Fyolo11-road-seg&style=flat-square) |
+| [**yolo11-ppe**](https://huggingface.co/leeyunjai/yolo11-ppe) | 산업 현장 안전장비 감지 | ![dl](https://img.shields.io/badge/dynamic/json?color=27B5EA&label=⬇&query=%24.downloads&url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fmodels%2Fleeyunjai%2Fyolo11-ppe&style=flat-square) ![like](https://img.shields.io/badge/dynamic/json?color=FFD21E&label=♥&query=%24.likes&url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fmodels%2Fleeyunjai%2Fyolo11-ppe&style=flat-square) |
 
 ---
 
-### 🚀 Highlighted GitHub Projects
+## 🚀 Projects
 
-*(👇 카드를 클릭하면 해당 레포지토리로 바로 이동합니다 / Click cards to visit repositories)*
+<div align="center">
 
-[![Googletrans-Python](https://github-readme-stats.vercel.app/api/pin/?username=leeyunjai&repo=googletrans-python&theme=tokyonight)](https://github.com/leeyunjai/googletrans-python)
-[![OLED-disp](https://github-readme-stats.vercel.app/api/pin/?username=leeyunjai&repo=oled-disp&theme=tokyonight)](https://github.com/leeyunjai/oled-disp)
-<br>
-[![Simple Face Recognition](https://github-readme-stats.vercel.app/api/pin/?username=leeyunjai&repo=simple-face-recognition&theme=tokyonight)](https://github.com/leeyunjai/simple-face-recognition)
-[![Teachable Machine Python](https://github-readme-stats.vercel.app/api/pin/?username=leeyunjai&repo=teachablemachine-python&theme=tokyonight)](https://github.com/leeyunjai/teachablemachine-python)
+[![simple-face-recognition](https://github-readme-stats.vercel.app/api/pin/?username=leeyunjai&repo=simple-face-recognition&theme=tokyonight&hide_border=true)](https://github.com/leeyunjai/simple-face-recognition)
+[![teachablemachine-python](https://github-readme-stats.vercel.app/api/pin/?username=leeyunjai&repo=teachablemachine-python&theme=tokyonight&hide_border=true)](https://github.com/leeyunjai/teachablemachine-python)
 
-**📝 Project Details**
-* [**Googletrans-Python**](https://github.com/leeyunjai/googletrans-python) : Google Translate API를 활용한 파이썬 번역 자동화 도구. *(Python translation tool utilizing Google Translate API.)*
-* [**OLED-disp (npm library)**](https://github.com/leeyunjai/oled-disp) : Raspberry Pi용 SSD1306-SPI OLED 드라이버. 한/영 폰트 및 비트맵 렌더링 최적화. *(SSD1306-SPI OLED driver for Raspberry Pi.)*
-* [**Simple Face Recognition**](https://github.com/leeyunjai/simple-face-recognition) : dlib과 OpenCV를 활용한 얼굴 인식 및 랜드마크 검출 라이브러리. 임베디드 최적화 지원. *(Face recognition & landmark detection library. Optimized for embedded systems.)*
-* [**Teachable Machine Python**](https://github.com/leeyunjai/teachablemachine-python) : Google Teachable Machine 모델(Keras/TFLite)을 임베디드 기기에서 실행하는 클라이언트 코드. *(Client code to run Teachable Machine models on edge devices.)*
+[![oled-disp](https://github-readme-stats.vercel.app/api/pin/?username=leeyunjai&repo=oled-disp&theme=tokyonight&hide_border=true)](https://github.com/leeyunjai/oled-disp)
+[![urdf-sim](https://github-readme-stats.vercel.app/api/pin/?username=leeyunjai82&repo=urdf-sim&theme=tokyonight&hide_border=true)](https://github.com/leeyunjai82/urdf-sim)
 
----
+</div>
 
-### 📊 Overall GitHub Statistics
-
-[![Yunjai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=leeyunjai82&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&hide_rank=true)](https://github.com/leeyunjai82)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leeyunjai82&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/leeyunjai82)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=leeyunjai82&theme=tokyonight&hide_border=true&background=0D1117)](https://github.com/leeyunjai82)
+- **[simple-face-recognition](https://github.com/leeyunjai/simple-face-recognition)** — dlib·OpenCV 얼굴 인식·랜드마크 검출, 임베디드 최적화
+- **[teachablemachine-python](https://github.com/leeyunjai/teachablemachine-python)** — Teachable Machine(Keras/TFLite) 모델 엣지 실행 클라이언트
+- **[oled-disp](https://github.com/leeyunjai/oled-disp)** — 라즈베리파이 SSD1306 SPI OLED 드라이버 (npm)
+- **[urdf-sim](https://github.com/leeyunjai82/urdf-sim)** — 브라우저 URDF 로봇 시뮬레이터
+- **[googletrans-python](https://github.com/leeyunjai/googletrans-python)** — Google 번역 API 파이썬 도구
 
 ---
 
-### 📫 Connect with me
+## 📊 GitHub
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=leeyunjai82&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&bg_color=0D1117)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leeyunjai82&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=leeyunjai82&theme=tokyonight&hide_border=true&background=0D1117)
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=leeyunjai82&theme=tokyonight&no-frame=true&column=7&margin-w=8)
+
+</div>
+
+---
+
+<div align="center">
 
 [![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/leeyunjai)
-[![Naver Blog](https://img.shields.io/badge/Naver_Blog-03C75A?style=for-the-badge&logo=naver&logoColor=white)](https://blog.naver.com/leeyunjai)
-[![Circulus](https://img.shields.io/badge/Circulus-000000?style=for-the-badge&logo=web&logoColor=white)](https://pibo.circul.us)
+[![Blog](https://img.shields.io/badge/Naver_Blog-03C75A?style=for-the-badge&logo=naver&logoColor=white)](https://blog.naver.com/leeyunjai)
+[![Circulus](https://img.shields.io/badge/Circulus-111111?style=for-the-badge&logo=robotframework&logoColor=white)](https://pibo.circul.us)
 
-<br>
-
-**"하드웨어와 지능의 만남: 코드와 물리적 세계의 간극을 연결합니다."**<br>
-*"Hardware meets Intelligence: Bridging the gap between code and the physical world."*
+</div>
